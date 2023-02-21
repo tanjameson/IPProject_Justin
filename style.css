@@ -164,8 +164,8 @@ header .icons #menu-bars {
     align-items: center;
     background-size: cover !important;
     background-position: center !important;
-    justify-content: flex-end;
     padding: 2rem 9%;
+    margin-top: -100px;
 }
 
 .home .box {
@@ -194,70 +194,7 @@ header .icons #menu-bars {
 
 }
 
-.home .box2 {
-    min-height: 100vh;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    align-items: center;
-    background-size: cover !important;
-    background-position: center !important;
-    justify-content: flex-end;
-    padding: 2rem 9%;
-}
 
-.home .box2 {
-    justify-content: center;
-
-}
-
-
-.home .box2 .content {
-    width: 50rem;
-
-}
-
-.home .box2 .content h3 {
-    font-size: 6rem;
-    color: #fff;
-    padding-top: .5rem;
-    text-transform: uppercase;
-}
-
-.home .box2 .content p {
-    line-height: 2;
-    color: #fff;
-    font-size: 1.5rem;
-    padding: 1rem 0;
-
-}
-
-.home .box3 {
-    min-height: 100vh;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    justify-content: flex-end;
-    padding: 2rem 9%;
-    border: 50px solid rgb(0, 0, 0);
-    /* Green border */
-
-}
-
-
-.home .box3 .content p {
-    line-height: 2;
-    color: #fff;
-    font-size: 1.7rem;
-    padding: 1rem 0;
-
-}
-
-.home .box3 .content h3 {
-    font-size: 6rem;
-    color: #fff;
-    padding-top: .5rem;
-    text-transform: uppercase;
-}
 
 .btn-group button {
     background-color: #859b93;

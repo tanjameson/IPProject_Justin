@@ -3,7 +3,7 @@
     font-family: 'poppins' ,sans-serif;
 }
 body{
-    background-image: url("images/overwatch.png");
+    background-image: url("images/710137.png");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -46,7 +46,7 @@ header{
     color: #fff;
     font-size: 15px;
     padding: 0 0 0 45px;
-    background: rgba(255,255,255,0.1);
+    background: rgba(0,0,0,0.4);
     outline: none;
 }
 i{
